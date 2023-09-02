@@ -1,0 +1,2 @@
+# A-Comparative-Analysis-of-Google-Web-Page-Ranking-Algorithms
+One of the most popular search engines is Google Search, although it is uncertain  what determines how items are ranked. In this term paper, we discuss the  outcomes of our initial efforts to reverse the ranking algorithm used by Google.  There are outcomes: The ranking algorithm used by Google Search gives the most  weight to citation counts
